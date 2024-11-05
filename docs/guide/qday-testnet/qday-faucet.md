@@ -24,7 +24,7 @@ You can obtain QDAY test tokens through the QDay Testnet faucet or by applying i
 
 ## Community Application for QDAY Test Tokens
 
-Please join the official pqAbelian [Discord Channel](https://discord.gg/Rrb33mC3Kc) and submit a ticket to apply for QDAY tokens.
+Please join the official pqAbelian [Discord Server](https://discord.com/invite/5rrDxP29hx) and submit a ticket to apply for QDAY tokens.
 
 - In the left sidebar menu, find “||SUPPORT||” at the bottom, click the + sign next to it, expand the submenu, and click “Support-Ticket” to create a ticket.
   ![Create Support Ticket](/qday-testnet/qday-faucet/discord-create-ticket.png)<br>

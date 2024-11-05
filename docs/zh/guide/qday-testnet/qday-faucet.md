@@ -24,7 +24,7 @@ outline: deep
 
 ## 社区申请 QDAY 测试币流程
 
-请加入 pqAbelian 官方 [Discord 频道](https://discord.gg/Rrb33mC3Kc)；并提交 Ticket 申请获取 QDAY 代币。
+请加入 pqAbelian [官方 Discord 服务器](https://discord.com/invite/5rrDxP29hx)；并提交 Ticket 申请获取 QDAY 代币。
 
 - 在频道左侧子频道菜单中最底部找到 “||SUPPORT||”，点击后面的 + 号，展开下级菜单点击 “Support-Ticket”，发起一个 Ticket；
   ![Discord 创建 Ticket](/qday-testnet/qday-faucet/discord-create-ticket.png)<br>

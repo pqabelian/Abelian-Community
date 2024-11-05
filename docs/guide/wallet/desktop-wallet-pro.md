@@ -30,7 +30,7 @@ With *Abelian Desktop Wallet Pro*, enjoy enhanced privacy, faster transactions, 
 
 ### Installation
 
-1) Go to the [Abelian official website download page](https://pqabelian.io/download#desktop) and download the installation package for the Abelian Desktop Wallet Pro.
+1) Go to the [Abelian official website download page](/downloads/latest#abelian-desktop-wallet-pro) and download the installation package for the Abelian Desktop Wallet Pro.
 ![Visit the Abelian official download page](/desktop-wallet/pro/download-page.png)
 
 **Please download the Abelian Desktop Wallet Pro based on your operating system and CPU architecture**

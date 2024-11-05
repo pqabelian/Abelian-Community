@@ -16,8 +16,8 @@ outline: deep
 ## 您需要准备
 
 1. Abelian 轻量钱包（CLI） v0.12.5（备注：低版本不支持下面的一些命令）
-   - 下载：请访问官方网站 [Abelian 下载页面](https://pqabelian.io/download#desktop)
-   - 教程：请查看  [Abelian 轻量钱包（CLI） 手册](/zh/guide/wallet/wallet-cli-lite)
+   - 下载：请访问官方网站 [Abelian 下载页面](/zh/downloads/latest#abelian-轻量钱包-cli)
+   - 教程：请查看 [Abelian 轻量钱包（CLI） 手册](/zh/guide/wallet/wallet-cli-lite)
 
 2. Abelian 移动应用
 
@@ -37,7 +37,7 @@ outline: deep
 ./start_abewallet.sh -A /Users/abelian/Documents/wallet_migrate --walletpass=MYPUBLICPASSPHRASE
 ```
 
-在这个示例中，我将以下的 **abewallet.conf** 文件放置在 **/Users/abelian/Documents/wallet_migrate** 下。我连接的远程 **abec** 位于亚洲。如果这个 **abec** 对您不起作用，您可以参考[手册](https://download.pqabelian.io/release/docs/Abelian%20Lite%20CLI%20Wallet%20Manual.pdf)，并相应地更改 **abewallet.conf** 中的远程 **abec** 设置。
+在这个示例中，我将以下的 **abewallet.conf** 文件放置在 **/Users/abelian/Documents/wallet_migrate** 下。我连接的远程 **abec** 位于亚洲。如果这个 **abec** 对您不起作用，您可以参考 [Abelian 轻量钱包（CLI） 手册](/zh/guide/wallet/wallet-cli-lite)，并相应地更改 **abewallet.conf** 中的远程 **abec** 设置。
 
 **修改 /Users/abelian/Documents/wallet_migrate/abewallet.conf 文件的内容**
 

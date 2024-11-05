@@ -29,7 +29,7 @@ outline: deep
 ## 操作步骤
 ### 下载和安装
 
-前往 [Abelian 官方网站下载页面](https://pqabelian.io/download#desktop)，下载 Abelian 桌面钱包 Pro 的安装包。
+前往 [Abelian 官方网站下载页面](/zh/downloads/latest#abelian-桌面钱包专业版)，下载 Abelian 桌面钱包 Pro 的安装包。
 ![访问 Abelian 官网下载页面](/desktop-wallet/pro/download-page.png)
 （根据您的操作系统和 CPU 架构下载 Abelian 桌面钱包 Pro）
 

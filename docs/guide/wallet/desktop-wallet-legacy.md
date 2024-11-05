@@ -12,7 +12,7 @@ This guide provides a step-by-step tutorial for installing, configuring, and usi
 
 ## Download and Installation
 
-Go to the [Abelian official website download page](https://pqabelian.io/download#desktop) and download the installation package for the Abelian Desktop Wallet (Legacy).
+Go to the [Abelian official website download page](/downloads/latest#abelian-desktop-wallet-legacy) and download the installation package for the Abelian Desktop Wallet (Legacy).
 
 ![Abelian's official download page](/desktop-wallet/legacy/download-page.png)
 (Download the Abelian Desktop Wallet (Legacy) based on your operating system and CPU architecture)

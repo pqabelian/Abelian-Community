@@ -16,7 +16,7 @@ Difficulty Level: Advanced
 ## What you need
 
 1. Abelian Lite Wallet CLI v0.12.5 (remark: lower version does not support some of the commands below)
-   - Download: Please go to the official [Abelian Downloads Page](https://pqabelian.io/download#desktop)
+   - Download: Please go to the official [Abelian Downloads Page](/downloads/latest#abelian-lite-wallet-cli)
    - Tutorial: Please check out the [Abelian Lite CLI Wallet Manual](/guide/wallet/wallet-cli-lite)
 
 2. Abelian Mobile App
@@ -37,7 +37,7 @@ Here is an example on running this Abelian Lite Wallet CLI (macOS version as an 
 ./start_abewallet.sh -A /Users/abelian/Documents/wallet_migrate --walletpass=MYPUBLICPASSPHRASE
 ```
 
-In this example, I put the following **abewallet.conf** under **/Users/abelian/Documents/wallet_migrate**. The remote **abec** I connect to is located in Asia. If this **abec** does not work for you, you can refer to the [manual](https://download.pqabelian.io/release/docs/Abelian%20Lite%20CLI%20Wallet%20Manual.pdf) and change the remote *abec** settings in the **abewallet.conf** accordingly.
+In this example, I put the following **abewallet.conf** under **/Users/abelian/Documents/wallet_migrate**. The remote **abec** I connect to is located in Asia. If this **abec** does not work for you, you can refer to the [manual](/guide/wallet/wallet-cli-lite) and change the remote *abec** settings in the **abewallet.conf** accordingly.
 
 **The contents of /Users/abelian/Documents/wallet_migrate/abewallet.conf**
 

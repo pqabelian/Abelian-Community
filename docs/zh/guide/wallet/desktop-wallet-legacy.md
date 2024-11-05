@@ -12,7 +12,7 @@ Abelian 基金会开发了桌面版的 Abelian 钱包，通过易于使用的图
 
 ## 下载与安装
 
-访问 [Abelian 官方网站下载页面](https://pqabelian.io/download#desktop) 并下载 Abelian 桌面钱包（传统版）/ Abelian Desktop Wallet (Legacy) 的安装包。
+访问 [Abelian 官方网站下载页面](/zh/downloads/latest#abelian-桌面钱包-传统版) 并下载 Abelian 桌面钱包（传统版）/ Abelian Desktop Wallet (Legacy) 的安装包。
 
 ![访问 Abelian 官网下载页面](/desktop-wallet/legacy/download-page.png)
 （根据操作系统和 CPU 架构下载 Abelian 桌面钱包传统版）
