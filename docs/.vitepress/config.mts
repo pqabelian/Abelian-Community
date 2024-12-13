@@ -144,7 +144,7 @@ export default defineConfig({
         },
     
         footer: {
-          copyright: '© 2024 <a href="https://pqabelian.io" target="_blank">Abelian Foundation</a> | All rights reserved'
+          copyright: '© 2024 <a href="https://pqabelian.io" target="_blank">Abelian</a> | All rights reserved'
         }
       }
     },
@@ -284,7 +284,7 @@ export default defineConfig({
         },
     
         footer: {
-          copyright: `© 2024 <a href="https://pqabelian.io" target="_blank">Abelian 基金会</a> | 版权所有`
+          copyright: `© 2024 <a href="https://pqabelian.io" target="_blank">Abelian</a> | 版权所有`
         },
     
         docFooter: {

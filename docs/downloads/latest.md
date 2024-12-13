@@ -57,7 +57,7 @@ The new mobile wallet is a complete rewrite of the previous mobile wallet and is
 It is available on both iOS and Android platforms.
 :::
 
-## Abelian Desktop Apps
+## Abelian Desktop Applications
 
 Privacy enhancing — wallet address and amount hiding
 
